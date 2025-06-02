@@ -8,6 +8,7 @@ finetuning_type: lora
 lora_target: all
 pref_beta: 0.1
 pref_loss: sigmoid
+pref_ftx: 1
 
 ### dataset
 dataset: dpo_easy
